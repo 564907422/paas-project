@@ -149,12 +149,6 @@
                 <artifactId>disconf-client</artifactId>
                 <version>${disconf.version}</version>
             </dependency>
-            <!-- framework -->
-            <!--<dependency>-->
-                <!--<groupId>com.bbtree.framework</groupId>-->
-                <!--<artifactId>bbtree-framework-core</artifactId>-->
-                <!--<version>${bbtree.framework.core.version}</version>-->
-            <!--</dependency>-->
             <!--validation-->
             <dependency>
                 <groupId>javax.validation</groupId>
